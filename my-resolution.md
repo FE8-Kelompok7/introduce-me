@@ -1,8 +1,7 @@
-# Materi
-## Bagas
+# Bagas Dwi Pranata
+## Materi
 ### Reactjs
 ### PHP
 
 # Career Plan
-# Bagas
 ### Fullstack Developer
